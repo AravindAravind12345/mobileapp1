@@ -32,7 +32,7 @@ class _BottomState extends State<Bottom> {
         },
         backgroundColor: Colors.white,
         selectedItemColor: const Color.fromARGB(255, 206, 164, 164),
-        unselectedItemColor: Colors.grey,
+        unselectedItemColor: const Color.fromARGB(255, 81, 18, 18),
         type: BottomNavigationBarType.fixed,
 
         items: const[
