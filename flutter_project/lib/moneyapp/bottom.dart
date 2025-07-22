@@ -31,7 +31,7 @@ class _BottomState extends State<Bottom> {
           });
         },
         backgroundColor: Colors.white,
-        selectedItemColor: Colors.black,
+        selectedItemColor: const Color.fromARGB(255, 206, 164, 164),
         unselectedItemColor: Colors.grey,
         type: BottomNavigationBarType.fixed,
 
