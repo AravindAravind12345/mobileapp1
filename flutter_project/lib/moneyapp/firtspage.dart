@@ -77,7 +77,7 @@ class _FirstpageState extends State<Firstpage> {
                                     return Container(
                                       height: 480,
                                       decoration: BoxDecoration(
-                                          color: Colors.white,
+                                          color: const Color.fromARGB(255, 70, 13, 13),
                                           borderRadius: BorderRadius.vertical(
                                               top: Radius.circular(20))),
                                       child: Padding(
