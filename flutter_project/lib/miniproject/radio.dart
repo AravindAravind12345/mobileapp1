@@ -15,7 +15,7 @@ class _RevisionState extends State<Revision> {
       case 1:
         return "male";
       case 2:
-        return "female";
+        return "male";
       default:
         return "unknown";
     }

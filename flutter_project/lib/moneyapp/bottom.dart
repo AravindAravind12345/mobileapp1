@@ -30,7 +30,7 @@ class _BottomState extends State<Bottom> {
             currentIndex =newIndex;
           });
         },
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.white,
         selectedItemColor: Colors.black,
         unselectedItemColor: Colors.grey,
         type: BottomNavigationBarType.fixed,
