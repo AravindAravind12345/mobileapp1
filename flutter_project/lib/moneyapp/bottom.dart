@@ -36,7 +36,7 @@ class _BottomState extends State<Bottom> {
         type: BottomNavigationBarType.fixed,
 
         items: const[
-          BottomNavigationBarItem(icon: Icon(Icons.home),label: "Home"),
+          BottomNavigationBarItem(icon: Icon(Icons.home),label: "House"),
           BottomNavigationBarItem(icon: Icon(Icons.map),label: "Map"),
           BottomNavigationBarItem(icon: Icon(Icons.transfer_within_a_station),label: "Transfer"),
           BottomNavigationBarItem(icon: Icon(Icons.settings),label: "Settings"),
